@@ -1387,6 +1387,20 @@ BuildingPortraits/Ceilidh Hall
   orig: 180, 180
   offset: 0, 0
   index: -1
+BuildingPortraits/Change Ideology
+  rotate: false
+  xy: 464, 1516
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Ideology
+  rotate: false
+  xy: 464, 1516
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
 BuildingPortraits/Chichen Itza
   rotate: false
   xy: 388, 192
@@ -1459,14 +1473,14 @@ BuildingPortraits/Cristo Redentor
   index: -1
 BuildingPortraits/Ducal Stable
   rotate: false
-  xy: 464, 1516
+  xy: 660, 1712
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/East India Company
   rotate: false
-  xy: 660, 1712
+  xy: 4, 792
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
@@ -1515,14 +1529,14 @@ BuildingPortraits/Garden
   index: -1
 BuildingPortraits/Globe Theatre
   rotate: false
-  xy: 4, 792
+  xy: 660, 1516
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Globe Theatre] [Theming Bonus]
   rotate: false
-  xy: 4, 792
+  xy: 660, 1516
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
@@ -1543,7 +1557,7 @@ BuildingPortraits/Grand Temple
   index: -1
 BuildingPortraits/Great Firewall
   rotate: false
-  xy: 660, 1516
+  xy: 856, 1712
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
@@ -1578,7 +1592,7 @@ BuildingPortraits/Hanging Gardens
   index: -1
 BuildingPortraits/Hanse
   rotate: false
-  xy: 856, 1712
+  xy: 4, 596
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
@@ -1627,7 +1641,7 @@ BuildingPortraits/Hospital
   index: -1
 BuildingPortraits/Hotel
   rotate: false
-  xy: 4, 596
+  xy: 856, 1516
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
@@ -1644,13 +1658,6 @@ BuildingPortraits/Hydro Plant
   xy: 1516, 380
   size: 180, 180
   orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Ideology
-  rotate: false
-  xy: 856, 1516
-  size: 188, 188
-  orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/Ikanda
