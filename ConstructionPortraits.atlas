@@ -1,8 +1,8 @@
 
-ConstructionIcons.png
+ConstructionPortraits.png
 size: 2048, 2048
 format: RGBA8888
-filter: MipMapLinearLinear, Linear
+filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 UnitPortraits/African Forest Elephant
   rotate: false
@@ -376,10 +376,10 @@ UnitPortraits/Galley
   offset: 0, 0
   index: -1
 
-ConstructionIcons2.png
+ConstructionPortraits2.png
 size: 2048, 2048
 format: RGBA8888
-filter: MipMapLinearLinear, Linear
+filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 UnitPortraits/Gatling Gun
   rotate: false
@@ -725,10 +725,10 @@ UnitPortraits/Missile Cruiser
   offset: 0, 0
   index: -1
 
-ConstructionIcons3.png
+ConstructionPortraits3.png
 size: 2048, 2048
 format: RGBA8888
-filter: MipMapLinearLinear, Linear
+filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 UnitPortraits/Missionary
   rotate: false
@@ -1074,1483 +1074,1721 @@ UnitPortraits/Work Boats
   offset: 0, 0
   index: -1
 
-ConstructionIcons4.png
+ConstructionPortraits4.png
 size: 2048, 2048
 format: RGBA8888
-filter: MipMapLinearLinear, Linear
+filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingPortraits/Airport
   rotate: false
-  xy: 268, 1712
+  xy: 268, 1720
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/Alhambra
   rotate: false
-  xy: 200, 1132
+  xy: 200, 944
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Amphitheater
   rotate: false
-  xy: 200, 944
+  xy: 396, 1140
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Angkor Wat
   rotate: false
-  xy: 388, 1132
+  xy: 200, 756
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Apollo Program
   rotate: false
-  xy: 200, 756
+  xy: 584, 1140
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Aqueduct
   rotate: false
-  xy: 388, 944
+  xy: 200, 568
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Armory
   rotate: false
-  xy: 576, 1132
+  xy: 772, 1140
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Arsenal
   rotate: false
-  xy: 200, 568
+  xy: 200, 380
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Artists' Guild
   rotate: false
-  xy: 4, 1184
+  xy: 4, 1192
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Cathedral] [Great Work of Art]
   rotate: false
-  xy: 4, 1184
+  xy: 4, 1192
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Hermitage] [Great Work of Art] 1
   rotate: false
-  xy: 4, 1184
+  xy: 4, 1192
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Hermitage] [Great Work of Art] 2
   rotate: false
-  xy: 4, 1184
+  xy: 4, 1192
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Hermitage] [Great Work of Art] 3
   rotate: false
-  xy: 4, 1184
+  xy: 4, 1192
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Museum] [Great Work of Art] 1
   rotate: false
-  xy: 4, 1184
+  xy: 4, 1192
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Museum] [Great Work of Art] 2
   rotate: false
-  xy: 4, 1184
+  xy: 4, 1192
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Palace] [Great Work of Art]
   rotate: false
-  xy: 4, 1184
+  xy: 4, 1192
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Parthenon] [Great Work of Art]
   rotate: false
-  xy: 4, 1184
+  xy: 4, 1192
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Sistine Chapel] [Great Work of Art] 1
   rotate: false
-  xy: 4, 1184
+  xy: 4, 1192
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Sistine Chapel] [Great Work of Art] 2
   rotate: false
-  xy: 4, 1184
+  xy: 4, 1192
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[The Louvre] [Great Work of Art] 1
   rotate: false
-  xy: 4, 1184
+  xy: 4, 1192
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[The Louvre] [Great Work of Art] 2
   rotate: false
-  xy: 4, 1184
+  xy: 4, 1192
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[The Louvre] [Great Work of Art] 3
   rotate: false
-  xy: 4, 1184
+  xy: 4, 1192
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[The Louvre] [Great Work of Art] 4
   rotate: false
-  xy: 4, 1184
+  xy: 4, 1192
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Uffizi] [Great Work of Art] 1
   rotate: false
-  xy: 4, 1184
+  xy: 4, 1192
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Uffizi] [Great Work of Art] 2
   rotate: false
-  xy: 4, 1184
+  xy: 4, 1192
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Uffizi] [Great Work of Art] 3
   rotate: false
-  xy: 4, 1184
+  xy: 4, 1192
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/Background
   rotate: false
-  xy: 388, 756
+  xy: 960, 1140
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Bank
   rotate: false
-  xy: 576, 944
+  xy: 200, 192
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Barracks
   rotate: false
-  xy: 764, 1132
+  xy: 1148, 1140
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Bazaar
   rotate: false
-  xy: 200, 380
+  xy: 1336, 1140
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Big Ben
   rotate: false
-  xy: 388, 568
+  xy: 1524, 1140
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Bomb Shelter
   rotate: false
-  xy: 576, 756
+  xy: 1712, 1140
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Borobudur
   rotate: false
-  xy: 268, 1516
+  xy: 268, 1524
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/Brandenburg Gate
   rotate: false
-  xy: 764, 944
+  xy: 200, 4
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Broadcast Tower
   rotate: false
-  xy: 952, 1132
+  xy: 388, 944
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Broadway
   rotate: false
-  xy: 464, 1712
+  xy: 464, 1720
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Broadway] [Theming Bonus]
   rotate: false
-  xy: 464, 1712
+  xy: 464, 1720
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/Burial Tomb
   rotate: false
-  xy: 200, 192
+  xy: 388, 756
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/CN Tower
   rotate: false
-  xy: 388, 380
+  xy: 388, 568
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Candi
   rotate: false
-  xy: 576, 568
+  xy: 388, 380
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Caravansary
   rotate: false
-  xy: 4, 988
+  xy: 4, 996
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/Castle
   rotate: false
-  xy: 764, 756
+  xy: 388, 192
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Cathedral
   rotate: false
-  xy: 952, 944
+  xy: 388, 4
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
-BuildingPortraits/Ceilidh Hall
-  rotate: false
-  xy: 1140, 1132
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Change Ideology
-  rotate: false
-  xy: 464, 1516
-  size: 188, 188
-  orig: 188, 188
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Ideology
-  rotate: false
-  xy: 464, 1516
-  size: 188, 188
-  orig: 188, 188
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Chichen Itza
-  rotate: false
-  xy: 388, 192
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Circus
-  rotate: false
-  xy: 576, 380
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Circus Maximus
-  rotate: false
-  xy: 764, 568
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Cloves
-  rotate: false
-  xy: 952, 756
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Coffee House
-  rotate: false
-  xy: 1140, 944
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Colosseum
-  rotate: false
-  xy: 1328, 1132
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Colossus
-  rotate: false
-  xy: 576, 192
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Constabulary
-  rotate: false
-  xy: 764, 380
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Courthouse
-  rotate: false
-  xy: 952, 568
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Cristo Redentor
-  rotate: false
-  xy: 1140, 756
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Ducal Stable
-  rotate: false
-  xy: 660, 1712
-  size: 188, 188
-  orig: 188, 188
-  offset: 0, 0
-  index: -1
-BuildingPortraits/East India Company
-  rotate: false
-  xy: 4, 792
-  size: 188, 188
-  orig: 188, 188
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Eiffel Tower
-  rotate: false
-  xy: 1328, 944
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Factory
-  rotate: false
-  xy: 1516, 1132
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Floating Gardens
-  rotate: false
-  xy: 764, 192
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Forbidden Palace
-  rotate: false
-  xy: 952, 380
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Forge
-  rotate: false
-  xy: 1140, 568
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Garden
-  rotate: false
-  xy: 1328, 756
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Globe Theatre
-  rotate: false
-  xy: 660, 1516
-  size: 188, 188
-  orig: 188, 188
-  offset: 0, 0
-  index: -1
-BuildingPortraits/[Globe Theatre] [Theming Bonus]
-  rotate: false
-  xy: 660, 1516
-  size: 188, 188
-  orig: 188, 188
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Granary
-  rotate: false
-  xy: 1516, 944
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Grand Temple
-  rotate: false
-  xy: 1704, 1132
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Great Firewall
-  rotate: false
-  xy: 856, 1712
-  size: 188, 188
-  orig: 188, 188
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Great Mosque of Djenne
-  rotate: false
-  xy: 952, 192
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Great Wall
-  rotate: false
-  xy: 1140, 380
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Hagia Sophia
-  rotate: false
-  xy: 1328, 568
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Hanging Gardens
-  rotate: false
-  xy: 1516, 756
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Hanse
-  rotate: false
-  xy: 4, 596
-  size: 188, 188
-  orig: 188, 188
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Harbor
-  rotate: false
-  xy: 1704, 944
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Hermitage
-  rotate: false
-  xy: 1140, 192
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/[Hermitage] [Theming Bonus]
-  rotate: false
-  xy: 1140, 192
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Heroic Epic
-  rotate: false
-  xy: 1328, 380
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Himeji Castle
-  rotate: false
-  xy: 1516, 568
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Hospital
-  rotate: false
-  xy: 1704, 756
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Hotel
-  rotate: false
-  xy: 856, 1516
-  size: 188, 188
-  orig: 188, 188
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Hubble Space Telescope
-  rotate: false
-  xy: 1328, 192
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Hydro Plant
-  rotate: false
-  xy: 1516, 380
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Ikanda
-  rotate: false
-  xy: 1052, 1712
-  size: 188, 188
-  orig: 188, 188
-  offset: 0, 0
-  index: -1
-BuildingPortraits/International Space Station
-  rotate: false
-  xy: 4, 400
-  size: 188, 188
-  orig: 188, 188
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Ironworks
-  rotate: false
-  xy: 1704, 568
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/King Solomon's Mines
-  rotate: false
-  xy: 1052, 1516
-  size: 188, 188
-  orig: 188, 188
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Kremlin
-  rotate: false
-  xy: 1516, 192
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Krepost
-  rotate: false
-  xy: 1704, 380
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Lake Victoria
-  rotate: false
-  xy: 1248, 1712
-  size: 188, 188
-  orig: 188, 188
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Leaning Tower of Pisa
-  rotate: false
-  xy: 1704, 192
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Library
-  rotate: false
-  xy: 200, 4
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Lighthouse
+ReligionPortraits/Cathedrals
   rotate: false
   xy: 388, 4
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
+BuildingPortraits/Ceilidh Hall
+  rotate: false
+  xy: 576, 952
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Change Ideology
+  rotate: false
+  xy: 464, 1524
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Ideology
+  rotate: false
+  xy: 464, 1524
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Chichen Itza
+  rotate: false
+  xy: 576, 764
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Circus
+  rotate: false
+  xy: 576, 576
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Circus Maximus
+  rotate: false
+  xy: 764, 764
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Cloves
+  rotate: false
+  xy: 952, 952
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Coffee House
+  rotate: false
+  xy: 576, 388
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Colosseum
+  rotate: false
+  xy: 764, 576
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Colossus
+  rotate: false
+  xy: 952, 764
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Constabulary
+  rotate: false
+  xy: 1140, 952
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Courthouse
+  rotate: false
+  xy: 576, 200
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Cristo Redentor
+  rotate: false
+  xy: 764, 388
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Ducal Stable
+  rotate: false
+  xy: 4, 800
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+BuildingPortraits/East India Company
+  rotate: false
+  xy: 660, 1524
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Eiffel Tower
+  rotate: false
+  xy: 952, 576
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Factory
+  rotate: false
+  xy: 1140, 764
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Floating Gardens
+  rotate: false
+  xy: 1328, 952
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Forbidden Palace
+  rotate: false
+  xy: 576, 12
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Forge
+  rotate: false
+  xy: 764, 200
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Garden
+  rotate: false
+  xy: 952, 388
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Peace Gardens
+  rotate: false
+  xy: 952, 388
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Globe Theatre
+  rotate: false
+  xy: 856, 1720
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+BuildingPortraits/[Globe Theatre] [Theming Bonus]
+  rotate: false
+  xy: 856, 1720
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Granary
+  rotate: false
+  xy: 1140, 576
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Grand Temple
+  rotate: false
+  xy: 1328, 764
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Great Firewall
+  rotate: false
+  xy: 4, 604
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Great Mosque of Djenne
+  rotate: false
+  xy: 1516, 952
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Great Wall
+  rotate: false
+  xy: 764, 12
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Hagia Sophia
+  rotate: false
+  xy: 952, 200
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Hanging Gardens
+  rotate: false
+  xy: 1140, 388
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Hanse
+  rotate: false
+  xy: 856, 1524
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Harbor
+  rotate: false
+  xy: 1328, 576
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Hermitage
+  rotate: false
+  xy: 1516, 764
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/[Hermitage] [Theming Bonus]
+  rotate: false
+  xy: 1516, 764
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Religious Art
+  rotate: false
+  xy: 1516, 764
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Heroic Epic
+  rotate: false
+  xy: 1704, 952
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Himeji Castle
+  rotate: false
+  xy: 952, 12
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Hospital
+  rotate: false
+  xy: 1140, 200
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Hotel
+  rotate: false
+  xy: 1052, 1720
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Hubble Space Telescope
+  rotate: false
+  xy: 1328, 388
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Hydro Plant
+  rotate: false
+  xy: 1516, 576
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Ikanda
+  rotate: false
+  xy: 4, 408
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+BuildingPortraits/International Space Station
+  rotate: false
+  xy: 1052, 1524
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Ironworks
+  rotate: false
+  xy: 1704, 764
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/King Solomon's Mines
+  rotate: false
+  xy: 1248, 1720
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Kremlin
+  rotate: false
+  xy: 1140, 12
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Krepost
+  rotate: false
+  xy: 1328, 200
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Lake Victoria
+  rotate: false
+  xy: 4, 212
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Leaning Tower of Pisa
+  rotate: false
+  xy: 1516, 388
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Library
+  rotate: false
+  xy: 1704, 576
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Lighthouse
+  rotate: false
+  xy: 1328, 12
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
 BuildingPortraits/Longhouse
   rotate: false
-  xy: 576, 4
+  xy: 1516, 200
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Louvre
   rotate: false
-  xy: 4, 204
+  xy: 1248, 1524
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/Machu Picchu
   rotate: false
-  xy: 764, 4
+  xy: 1704, 388
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Manhattan Project
   rotate: false
-  xy: 952, 4
+  xy: 1516, 12
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Market
   rotate: false
-  xy: 1140, 4
+  xy: 1704, 200
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Mausoleum of Halicarnassus
   rotate: false
-  xy: 1328, 4
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Medical Lab
-  rotate: false
-  xy: 1516, 4
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Military Academy
-  rotate: false
-  xy: 1704, 4
+  xy: 1704, 12
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Mt. Kailash
   rotate: false
-  xy: 1248, 1516
+  xy: 1444, 1720
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/Mt. Kilimanjaro
   rotate: false
-  xy: 1444, 1712
+  xy: 4, 16
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/Mt. Sinai
   rotate: false
-  xy: 4, 8
+  xy: 1444, 1524
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/Musicians' Guild
   rotate: false
-  xy: 1444, 1516
+  xy: 1640, 1720
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Broadcast Tower] [Great Work of Music]
   rotate: false
-  xy: 1444, 1516
+  xy: 1640, 1720
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Broadway] [Great Work of Music] 1
   rotate: false
-  xy: 1444, 1516
+  xy: 1640, 1720
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Broadway] [Great Work of Music] 2
   rotate: false
-  xy: 1444, 1516
+  xy: 1640, 1720
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Broadway] [Great Work of Music] 3
   rotate: false
-  xy: 1444, 1516
+  xy: 1640, 1720
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Opera House] [Great Work of Music]
   rotate: false
-  xy: 1444, 1516
+  xy: 1640, 1720
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Sydney Opera House] [Great Work of Music] 1
   rotate: false
-  xy: 1444, 1516
+  xy: 1640, 1720
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Sydney Opera House] [Great Work of Music] 2
   rotate: false
-  xy: 1444, 1516
+  xy: 1640, 1720
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/National Intelligence Agency
   rotate: false
-  xy: 1640, 1712
+  xy: 1640, 1524
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/National Visitor Center
   rotate: false
-  xy: 1640, 1516
+  xy: 1836, 1720
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/Panama Canal
   rotate: false
-  xy: 1836, 1712
+  xy: 1836, 1524
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/Parthenon
   rotate: false
-  xy: 1836, 1516
+  xy: 268, 1328
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/Prora
   rotate: false
-  xy: 268, 1320
+  xy: 464, 1328
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/Red Fort
   rotate: false
-  xy: 464, 1320
+  xy: 660, 1328
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/Royal Library
   rotate: false
-  xy: 660, 1320
+  xy: 856, 1328
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/Sri Pada
   rotate: false
-  xy: 856, 1320
+  xy: 1052, 1328
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/Three Gorges Dam
   rotate: false
-  xy: 1052, 1320
+  xy: 1248, 1328
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/Uffizi
   rotate: false
-  xy: 1248, 1320
+  xy: 1444, 1328
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Uffizi] [Theming Bonus]
   rotate: false
-  xy: 1248, 1320
+  xy: 1444, 1328
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/Uluru
   rotate: false
-  xy: 1444, 1320
+  xy: 1640, 1328
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/Writers' Guild
   rotate: false
-  xy: 1640, 1320
+  xy: 1836, 1328
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Amphitheater] [Great Work of Writing]
   rotate: false
-  xy: 1640, 1320
+  xy: 1836, 1328
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Globe Theatre] [Great Work of Writing] 1
   rotate: false
-  xy: 1640, 1320
+  xy: 1836, 1328
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Globe Theatre] [Great Work of Writing] 2
   rotate: false
-  xy: 1640, 1320
+  xy: 1836, 1328
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Heroic Epic] [Great Work of Writing]
   rotate: false
-  xy: 1640, 1320
+  xy: 1836, 1328
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[National Epic] [Great Work of Writing]
   rotate: false
-  xy: 1640, 1320
+  xy: 1836, 1328
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Oxford University] [Great Work of Writing] 1
   rotate: false
-  xy: 1640, 1320
+  xy: 1836, 1328
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Oxford University] [Great Work of Writing] 2
   rotate: false
-  xy: 1640, 1320
+  xy: 1836, 1328
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[Royal Library] [Great Work of Writing]
   rotate: false
-  xy: 1640, 1320
+  xy: 1836, 1328
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[The Great Library] [Great Work of Writing] 1
   rotate: false
-  xy: 1640, 1320
+  xy: 1836, 1328
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/[The Great Library] [Great Work of Writing] 2
   rotate: false
-  xy: 1640, 1320
+  xy: 1836, 1328
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 BuildingPortraits/Zoo
   rotate: false
-  xy: 1836, 1320
+  xy: 200, 1132
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-UnitPortraits/Worker
+ReligionPortraits/Charitable Missions
   rotate: false
-  xy: 4, 1644
-  size: 256, 256
-  orig: 256, 256
+  xy: 660, 1720
+  size: 188, 188
+  orig: 188, 188
   offset: 0, 0
   index: -1
-UnitPortraits/Zero
+ReligionPortraits/Evangelism
   rotate: false
-  xy: 4, 1380
-  size: 256, 256
-  orig: 256, 256
+  xy: 660, 1720
+  size: 188, 188
+  orig: 188, 188
   offset: 0, 0
   index: -1
-
-ConstructionIcons5.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, Linear
-repeat: none
-BuildingPortraits/Military Base
+ReligionPortraits/Heathen Conversion
   rotate: false
-  xy: 4, 1696
-  size: 180, 180
-  orig: 180, 180
+  xy: 660, 1720
+  size: 188, 188
+  orig: 188, 188
   offset: 0, 0
   index: -1
-BuildingPortraits/Mint
+ReligionPortraits/Jesuit Education
   rotate: false
-  xy: 4, 1508
-  size: 180, 180
-  orig: 180, 180
+  xy: 660, 1720
+  size: 188, 188
+  orig: 188, 188
   offset: 0, 0
   index: -1
-BuildingPortraits/Monastery
+ReligionPortraits/Religious Fervor
   rotate: false
-  xy: 192, 1696
-  size: 180, 180
-  orig: 180, 180
+  xy: 660, 1720
+  size: 188, 188
+  orig: 188, 188
   offset: 0, 0
   index: -1
-BuildingPortraits/Monument
+ReligionPortraits/Sacred Sites
   rotate: false
-  xy: 4, 1320
-  size: 180, 180
-  orig: 180, 180
+  xy: 660, 1720
+  size: 188, 188
+  orig: 188, 188
   offset: 0, 0
   index: -1
-BuildingPortraits/Mosque
+ReligionPortraits/To the Glory of God
   rotate: false
-  xy: 192, 1508
-  size: 180, 180
-  orig: 180, 180
+  xy: 660, 1720
+  size: 188, 188
+  orig: 188, 188
   offset: 0, 0
   index: -1
-BuildingPortraits/Mud Pyramid Mosque
+ReligionPortraits/Underground Sect
   rotate: false
-  xy: 380, 1696
-  size: 180, 180
-  orig: 180, 180
+  xy: 660, 1720
+  size: 188, 188
+  orig: 188, 188
   offset: 0, 0
   index: -1
-BuildingPortraits/Mughal Fort
+ReligionPortraits/Unity of the Prophets
   rotate: false
-  xy: 4, 1132
-  size: 180, 180
-  orig: 180, 180
+  xy: 660, 1720
+  size: 188, 188
+  orig: 188, 188
   offset: 0, 0
   index: -1
-BuildingPortraits/Museum
+ReligionPortraits/Choral Music
   rotate: false
-  xy: 192, 1320
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/[Museum] [Theming Bonus]
-  rotate: false
-  xy: 192, 1320
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/National College
-  rotate: false
-  xy: 380, 1508
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/National Epic
-  rotate: false
-  xy: 568, 1696
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/National Treasury
-  rotate: false
-  xy: 4, 944
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Neuschwanstein
-  rotate: false
-  xy: 192, 1132
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Notre Dame
-  rotate: false
-  xy: 380, 1320
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Nuclear Plant
-  rotate: false
-  xy: 568, 1508
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Nutmeg
-  rotate: false
-  xy: 756, 1696
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Observatory
-  rotate: false
-  xy: 4, 756
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Opera House
-  rotate: false
-  xy: 192, 944
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Oxford University
-  rotate: false
-  xy: 380, 1132
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/[Oxford University] [Theming Bonus]
-  rotate: false
-  xy: 380, 1132
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Pagoda
-  rotate: false
-  xy: 568, 1320
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Palace
-  rotate: false
-  xy: 756, 1508
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Paper Maker
-  rotate: false
-  xy: 944, 1696
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Pentagon
-  rotate: false
-  xy: 4, 568
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Pepper
-  rotate: false
-  xy: 192, 756
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Petra
-  rotate: false
-  xy: 380, 944
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Police Station
-  rotate: false
-  xy: 568, 1132
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Porcelain Tower
-  rotate: false
-  xy: 756, 1320
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Public School
-  rotate: false
-  xy: 944, 1508
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Pyramid
-  rotate: false
-  xy: 1132, 1696
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Recycling Center
-  rotate: false
-  xy: 4, 380
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Research Lab
-  rotate: false
-  xy: 192, 568
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Satrap's Court
-  rotate: false
-  xy: 380, 756
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Seaport
-  rotate: false
-  xy: 568, 944
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Shrine
-  rotate: false
-  xy: 756, 1132
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Sistine Chapel
-  rotate: false
-  xy: 944, 1320
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/[Sistine Chapel] [Theming Bonus]
-  rotate: false
-  xy: 944, 1320
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Solar Plant
-  rotate: false
-  xy: 1132, 1508
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Spaceship Factory
-  rotate: false
-  xy: 1320, 1696
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Stable
-  rotate: false
-  xy: 4, 192
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Stadium
-  rotate: false
-  xy: 192, 380
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Statue of Liberty
-  rotate: false
-  xy: 380, 568
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Statue of Zeus
-  rotate: false
-  xy: 568, 756
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Stele
-  rotate: false
-  xy: 756, 944
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Stock Exchange
-  rotate: false
-  xy: 944, 1132
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Stone Works
-  rotate: false
-  xy: 1132, 1320
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Stonehenge
-  rotate: false
-  xy: 1320, 1508
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Sydney Opera House
-  rotate: false
-  xy: 1508, 1696
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/[Sydney Opera House] [Theming Bonus]
-  rotate: false
-  xy: 1508, 1696
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-BuildingPortraits/Taj Mahal
-  rotate: false
-  xy: 4, 4
+  xy: 764, 952
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Temple
   rotate: false
-  xy: 192, 192
+  xy: 764, 952
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Religious Center
+  rotate: false
+  xy: 764, 952
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitPortraits/Worker
+  rotate: false
+  xy: 4, 1652
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPortraits/Zero
+  rotate: false
+  xy: 4, 1388
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+
+ConstructionPortraits5.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingPortraits/Medical Lab
+  rotate: false
+  xy: 4, 1832
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Military Academy
+  rotate: false
+  xy: 4, 1644
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Military Base
+  rotate: false
+  xy: 192, 1832
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Mint
+  rotate: false
+  xy: 4, 1456
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Monument
+  rotate: false
+  xy: 380, 1832
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Mosque
+  rotate: false
+  xy: 4, 1268
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Mosques
+  rotate: false
+  xy: 4, 1268
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Mud Pyramid Mosque
+  rotate: false
+  xy: 192, 1456
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Mughal Fort
+  rotate: false
+  xy: 380, 1644
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Museum
+  rotate: false
+  xy: 568, 1832
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/[Museum] [Theming Bonus]
+  rotate: false
+  xy: 568, 1832
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/National College
+  rotate: false
+  xy: 4, 1080
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/National Epic
+  rotate: false
+  xy: 192, 1268
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/National Treasury
+  rotate: false
+  xy: 380, 1456
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Neuschwanstein
+  rotate: false
+  xy: 568, 1644
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Notre Dame
+  rotate: false
+  xy: 756, 1832
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Nuclear Plant
+  rotate: false
+  xy: 4, 892
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Nutmeg
+  rotate: false
+  xy: 192, 1080
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Observatory
+  rotate: false
+  xy: 380, 1268
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Opera House
+  rotate: false
+  xy: 568, 1456
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Oxford University
+  rotate: false
+  xy: 756, 1644
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/[Oxford University] [Theming Bonus]
+  rotate: false
+  xy: 756, 1644
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Pagoda
+  rotate: false
+  xy: 944, 1832
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Pagodas
+  rotate: false
+  xy: 944, 1832
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Palace
+  rotate: false
+  xy: 4, 704
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Paper Maker
+  rotate: false
+  xy: 192, 892
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Pentagon
+  rotate: false
+  xy: 380, 1080
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Pepper
+  rotate: false
+  xy: 568, 1268
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Petra
+  rotate: false
+  xy: 756, 1456
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Police Station
+  rotate: false
+  xy: 944, 1644
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Porcelain Tower
+  rotate: false
+  xy: 1132, 1832
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Public School
+  rotate: false
+  xy: 4, 516
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Pyramid
+  rotate: false
+  xy: 192, 704
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Recycling Center
+  rotate: false
+  xy: 380, 892
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Research Lab
+  rotate: false
+  xy: 568, 1080
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Satrap's Court
+  rotate: false
+  xy: 756, 1268
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Seaport
+  rotate: false
+  xy: 944, 1456
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Shrine
+  rotate: false
+  xy: 1132, 1644
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Sistine Chapel
+  rotate: false
+  xy: 1320, 1832
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/[Sistine Chapel] [Theming Bonus]
+  rotate: false
+  xy: 1320, 1832
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Solar Plant
+  rotate: false
+  xy: 4, 328
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Spaceship Factory
+  rotate: false
+  xy: 192, 516
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Stable
+  rotate: false
+  xy: 380, 704
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Stadium
+  rotate: false
+  xy: 568, 892
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Statue of Liberty
+  rotate: false
+  xy: 756, 1080
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Statue of Zeus
+  rotate: false
+  xy: 944, 1268
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Stele
+  rotate: false
+  xy: 1132, 1456
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Stock Exchange
+  rotate: false
+  xy: 1320, 1644
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Stone Works
+  rotate: false
+  xy: 1508, 1832
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Stonehenge
+  rotate: false
+  xy: 4, 140
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Sydney Opera House
+  rotate: false
+  xy: 192, 328
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/[Sydney Opera House] [Theming Bonus]
+  rotate: false
+  xy: 192, 328
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Taj Mahal
+  rotate: false
+  xy: 380, 516
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Temple of Artemis
   rotate: false
-  xy: 380, 380
+  xy: 568, 704
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Terracotta Army
   rotate: false
-  xy: 568, 568
+  xy: 756, 892
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/The Great Library
   rotate: false
-  xy: 756, 756
+  xy: 944, 1080
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/[The Great Library] [Theming Bonus]
   rotate: false
-  xy: 756, 756
+  xy: 944, 1080
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/The Great Lighthouse
   rotate: false
-  xy: 944, 944
+  xy: 1132, 1268
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/The Louvre
   rotate: false
-  xy: 1132, 1132
+  xy: 1320, 1456
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/[The Louvre] [Theming Bonus]
   rotate: false
-  xy: 1132, 1132
+  xy: 1320, 1456
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/The Oracle
   rotate: false
-  xy: 1320, 1320
+  xy: 1508, 1644
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/The Pyramids
   rotate: false
-  xy: 1508, 1508
+  xy: 1696, 1832
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Theatre
   rotate: false
-  xy: 1696, 1696
+  xy: 192, 140
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/United Nations
   rotate: false
-  xy: 192, 4
+  xy: 380, 328
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/University
   rotate: false
-  xy: 380, 192
+  xy: 568, 516
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Utopia Project
   rotate: false
-  xy: 568, 380
+  xy: 756, 704
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Walls
   rotate: false
-  xy: 756, 568
+  xy: 944, 892
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Walls of Babylon
   rotate: false
-  xy: 944, 756
+  xy: 1132, 1080
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Wat
   rotate: false
-  xy: 1132, 944
+  xy: 1320, 1268
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Water Mill
   rotate: false
-  xy: 1320, 1132
+  xy: 1508, 1456
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Windmill
   rotate: false
-  xy: 1508, 1320
+  xy: 1696, 1644
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 BuildingPortraits/Workshop
   rotate: false
-  xy: 1696, 1508
+  xy: 380, 140
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 ConstructionIcons/Circle
   rotate: false
-  xy: 568, 194
+  xy: 756, 518
   size: 178, 178
   orig: 178, 178
   offset: 0, 0
   index: -1
+ReligionPortraits/Background
+  rotate: false
+  xy: 944, 711
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Buddhism
+  rotate: false
+  xy: 4, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Catholicism
+  rotate: false
+  xy: 1884, 1884
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Christianity
+  rotate: false
+  xy: 1884, 1884
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Confucianism
+  rotate: false
+  xy: 1320, 1132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Eastern Orthodoxy
+  rotate: false
+  xy: 1508, 1320
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Fallback
+  rotate: false
+  xy: 1132, 895
+  size: 163, 177
+  orig: 163, 177
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Hinduism
+  rotate: false
+  xy: 1696, 1508
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Islam
+  rotate: false
+  xy: 568, 194
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Judaism
+  rotate: false
+  xy: 140, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Monasteries
+  rotate: false
+  xy: 192, 1644
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Monastery
+  rotate: false
+  xy: 192, 1644
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Pantheon
+  rotate: false
+  xy: 1884, 1748
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Protestantism
+  rotate: false
+  xy: 276, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Shinto
+  rotate: false
+  xy: 412, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Sikhism
+  rotate: false
+  xy: 1884, 1612
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Taoism
+  rotate: false
+  xy: 568, 58
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Tengriism
+  rotate: false
+  xy: 1320, 996
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ReligionPortraits/Zoroastrianism
+  rotate: false
+  xy: 1303, 860
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 UnitPortraits/Background
   rotate: false
-  xy: 380, 6
+  xy: 568, 330
   size: 178, 178
   orig: 178, 178
   offset: 0, 0

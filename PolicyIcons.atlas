@@ -1,0 +1,496 @@
+
+PolicyIcons.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+PolicyIcons/Aesthetics
+  rotate: false
+  xy: 4, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Consulates
+  rotate: false
+  xy: 4, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Aristocracy
+  rotate: false
+  xy: 4, 1572
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Artistic Genius
+  rotate: false
+  xy: 200, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Autocracy
+  rotate: false
+  xy: 1376, 1245
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+PolicyBranchIcons/Autocracy
+  rotate: false
+  xy: 1376, 1245
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+PolicyIcons/Citizenship
+  rotate: false
+  xy: 4, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Civil Society
+  rotate: false
+  xy: 200, 1572
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Collective Rule
+  rotate: false
+  xy: 396, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyBranchIcons/Freedom
+  rotate: false
+  xy: 396, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Freedom
+  rotate: false
+  xy: 396, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Communism
+  rotate: false
+  xy: 4, 1180
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyBranchIcons/Order
+  rotate: false
+  xy: 4, 1180
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Order
+  rotate: false
+  xy: 4, 1180
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Constitution
+  rotate: false
+  xy: 200, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Cultural Centers
+  rotate: false
+  xy: 396, 1572
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Cultural Diplomacy
+  rotate: false
+  xy: 592, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Cultural Exchange
+  rotate: false
+  xy: 4, 984
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Democracy
+  rotate: false
+  xy: 200, 1180
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Discipline
+  rotate: false
+  xy: 396, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Educated Elite
+  rotate: false
+  xy: 592, 1572
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Merchant Confederacy
+  rotate: false
+  xy: 592, 1572
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Entrepreneurship
+  rotate: false
+  xy: 788, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Fascism
+  rotate: false
+  xy: 4, 788
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Fine Arts
+  rotate: false
+  xy: 200, 984
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Flourishing of the Arts
+  rotate: false
+  xy: 396, 1180
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Free Religion
+  rotate: false
+  xy: 592, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Religious Tolerance
+  rotate: false
+  xy: 592, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Free Speech
+  rotate: false
+  xy: 788, 1572
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Free Thought
+  rotate: false
+  xy: 984, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Humanism
+  rotate: false
+  xy: 4, 592
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Landed Elite
+  rotate: false
+  xy: 200, 788
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Legalism
+  rotate: false
+  xy: 396, 984
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Mandate Of Heaven
+  rotate: false
+  xy: 592, 1180
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Maritime Infrastructure
+  rotate: false
+  xy: 788, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Mercantilism
+  rotate: false
+  xy: 984, 1572
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Mercenary Army
+  rotate: false
+  xy: 1180, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Merchant Navy
+  rotate: false
+  xy: 4, 396
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Meritocracy
+  rotate: false
+  xy: 200, 592
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Militarism
+  rotate: false
+  xy: 396, 788
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Military Caste
+  rotate: false
+  xy: 592, 984
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Military Tradition
+  rotate: false
+  xy: 788, 1180
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Monarchy
+  rotate: false
+  xy: 984, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Nationalism
+  rotate: false
+  xy: 1180, 1572
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Naval Tradition
+  rotate: false
+  xy: 1376, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Navigation School
+  rotate: false
+  xy: 4, 200
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Oligarchy
+  rotate: false
+  xy: 200, 396
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Organized Religion
+  rotate: false
+  xy: 396, 592
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Philantropy
+  rotate: false
+  xy: 592, 788
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Planned Economy
+  rotate: false
+  xy: 788, 984
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Police State
+  rotate: false
+  xy: 984, 1180
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Populism
+  rotate: false
+  xy: 1180, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Professional Army
+  rotate: false
+  xy: 1376, 1572
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Protectionism
+  rotate: false
+  xy: 1572, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Reformation
+  rotate: false
+  xy: 4, 4
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Representation
+  rotate: false
+  xy: 200, 200
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Republic
+  rotate: false
+  xy: 396, 396
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Scholasticism
+  rotate: false
+  xy: 592, 592
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Scientific Revolution
+  rotate: false
+  xy: 788, 788
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Secularism
+  rotate: false
+  xy: 984, 984
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Socialism
+  rotate: false
+  xy: 1180, 1180
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Sovereignty
+  rotate: false
+  xy: 1376, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Theocracy
+  rotate: false
+  xy: 1572, 1572
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Total War
+  rotate: false
+  xy: 1768, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Trade Unions
+  rotate: false
+  xy: 200, 4
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Treasure Fleets
+  rotate: false
+  xy: 396, 200
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/United Front
+  rotate: false
+  xy: 592, 396
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Universal Suffrage
+  rotate: false
+  xy: 788, 592
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Wagon Trains
+  rotate: false
+  xy: 984, 788
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Warrior Code
+  rotate: false
+  xy: 1180, 984
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
