@@ -620,6 +620,13 @@ UniquePortraits/Comment [Double quantity of [Tourism] produced]
   orig: 188, 188
   offset: 0, 0
   index: -1
+UniquePortraits/Concert Tour
+  rotate: false
+  xy: 200, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
 UniquePortraits/Fallback
   rotate: false
   xy: 1768, 636

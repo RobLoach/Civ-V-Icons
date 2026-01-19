@@ -20,644 +20,644 @@ UnitPromotionIcons/Accuracy II
   index: -1
 UnitPromotionIcons/Accuracy III
   rotate: false
-  xy: 1633, 1090
+  xy: 1633, 909
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Altitude Training
   rotate: false
-  xy: 1814, 1271
+  xy: 1814, 1090
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Ambush I
   rotate: false
-  xy: 909, 186
+  xy: 52, 4
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Ambush II
   rotate: false
-  xy: 1090, 366
+  xy: 1995, 1947
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Amphibious
   rotate: false
-  xy: 1271, 547
+  xy: 1633, 861
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Armor Plating I
   rotate: false
-  xy: 1452, 728
+  xy: 1681, 909
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Armor Plating II
   rotate: false
-  xy: 52, 4
+  xy: 1814, 1042
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Armor Plating III
   rotate: false
-  xy: 1995, 1947
+  xy: 1862, 1090
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Barrage I
   rotate: false
-  xy: 1633, 1042
+  xy: 100, 4
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Barrage II
   rotate: false
-  xy: 1681, 1090
+  xy: 1995, 1899
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Barrage III
   rotate: false
-  xy: 1814, 1223
+  xy: 1633, 813
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Blitz
   rotate: false
-  xy: 1862, 1271
+  xy: 1681, 861
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Boarding Party I
   rotate: false
-  xy: 909, 138
+  xy: 1729, 909
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Boarding Party II
   rotate: false
-  xy: 957, 186
+  xy: 1814, 994
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Boarding Party III
   rotate: false
-  xy: 1090, 318
+  xy: 1862, 1042
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Bombardment I
   rotate: false
-  xy: 1138, 366
+  xy: 1910, 1090
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Bombardment II
   rotate: false
-  xy: 1271, 499
+  xy: 148, 4
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Bombardment III
   rotate: false
-  xy: 1319, 547
+  xy: 1995, 1851
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Buffalo Chest
   rotate: false
-  xy: 1452, 680
+  xy: 1681, 813
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Charge
   rotate: false
-  xy: 1500, 728
+  xy: 1729, 861
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Coastal Raider I
   rotate: false
-  xy: 100, 4
+  xy: 1862, 994
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Coastal Raider II
   rotate: false
-  xy: 1995, 1899
+  xy: 1910, 1042
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Coastal Raider III
   rotate: false
-  xy: 1633, 994
+  xy: 196, 4
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Cover I
   rotate: false
-  xy: 1681, 1042
+  xy: 1995, 1803
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Cover II
   rotate: false
-  xy: 1729, 1090
+  xy: 1729, 813
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Desert Warrior
   rotate: false
-  xy: 1814, 1175
+  xy: 1910, 994
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Discipline
   rotate: false
-  xy: 1862, 1223
+  xy: 244, 4
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Morale
   rotate: false
-  xy: 1862, 1223
+  xy: 244, 4
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Patriotic War
   rotate: false
-  xy: 1862, 1223
+  xy: 244, 4
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Dogfighting I
   rotate: false
-  xy: 1910, 1271
+  xy: 1995, 1755
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Dogfighting II
   rotate: false
-  xy: 909, 90
+  xy: 292, 4
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Dogfighting III
   rotate: false
-  xy: 957, 138
+  xy: 1995, 1707
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Drill I
   rotate: false
-  xy: 1005, 186
+  xy: 340, 4
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Drill II
   rotate: false
-  xy: 1090, 270
+  xy: 1995, 1659
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Drill III
   rotate: false
-  xy: 1138, 318
+  xy: 388, 4
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Embarkation
   rotate: false
-  xy: 1186, 366
+  xy: 1995, 1611
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Evasion
   rotate: false
-  xy: 1271, 451
+  xy: 436, 4
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Exotic Cargo
   rotate: false
-  xy: 1319, 499
+  xy: 1995, 1563
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Exploration
   rotate: false
-  xy: 1367, 547
+  xy: 484, 4
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Mobile Admiral
   rotate: false
-  xy: 1367, 547
+  xy: 484, 4
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Mobile General
   rotate: false
-  xy: 1367, 547
+  xy: 484, 4
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Mobility
   rotate: false
-  xy: 1367, 547
+  xy: 484, 4
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Mobility II
   rotate: false
-  xy: 1367, 547
+  xy: 484, 4
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Flight Deck I
   rotate: false
-  xy: 1452, 632
+  xy: 1995, 1515
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Flight Deck II
   rotate: false
-  xy: 1500, 680
+  xy: 532, 4
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Flight Deck III
   rotate: false
-  xy: 1548, 728
+  xy: 1995, 1467
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Formation I
   rotate: false
-  xy: 148, 4
+  xy: 580, 4
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Formation II
   rotate: false
-  xy: 1995, 1851
+  xy: 1995, 1419
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Golden Age from Victories
   rotate: false
-  xy: 1633, 946
+  xy: 628, 4
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Heal Instantly
   rotate: false
-  xy: 1681, 994
+  xy: 1995, 1371
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Heavy Charge
   rotate: false
-  xy: 1729, 1042
+  xy: 676, 4
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Homeland Guardian
   rotate: false
-  xy: 1862, 1175
+  xy: 1995, 1323
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Invulnerability
   rotate: false
-  xy: 1862, 1175
+  xy: 1995, 1323
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Indirect Fire
   rotate: false
-  xy: 1910, 1223
+  xy: 724, 4
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Interception I
   rotate: false
-  xy: 957, 90
+  xy: 1995, 1275
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Interception II
   rotate: false
-  xy: 1005, 138
+  xy: 772, 4
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Interception III
   rotate: false
-  xy: 1138, 270
+  xy: 1995, 1227
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Lightning Warfare
   rotate: false
-  xy: 1186, 318
+  xy: 820, 4
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Logistics
   rotate: false
-  xy: 1319, 451
+  xy: 1995, 1179
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/March
   rotate: false
-  xy: 1367, 499
+  xy: 868, 4
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Medic
   rotate: false
-  xy: 1500, 632
+  xy: 916, 5
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Medic II
   rotate: false
-  xy: 1500, 632
+  xy: 916, 5
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Native Tongue
   rotate: false
-  xy: 1548, 680
+  xy: 964, 5
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Range
   rotate: false
-  xy: 196, 4
+  xy: 1012, 5
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Repair
   rotate: false
-  xy: 1995, 1803
+  xy: 1995, 1131
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Sapper
   rotate: false
-  xy: 1633, 898
+  xy: 1633, 765
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Scouting I
   rotate: false
-  xy: 1681, 946
+  xy: 1681, 765
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Scouting II
   rotate: false
-  xy: 1729, 994
+  xy: 1729, 765
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Scouting III
   rotate: false
-  xy: 1910, 1175
+  xy: 1777, 909
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Sentry
   rotate: false
-  xy: 1005, 90
+  xy: 1777, 861
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Shock I
   rotate: false
-  xy: 1186, 270
+  xy: 1777, 813
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Shock II
   rotate: false
-  xy: 1367, 451
+  xy: 1777, 765
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Shock III
   rotate: false
-  xy: 1548, 632
+  xy: 1060, 5
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Siege
   rotate: false
-  xy: 244, 4
+  xy: 1958, 1083
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Siege I
   rotate: false
-  xy: 244, 4
+  xy: 1958, 1083
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Siege II
   rotate: false
-  xy: 1995, 1755
+  xy: 1958, 1035
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Siege III
   rotate: false
-  xy: 1633, 850
+  xy: 1958, 987
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Skyranger
   rotate: false
-  xy: 1681, 898
+  xy: 1825, 946
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Sortie
   rotate: false
-  xy: 1729, 946
+  xy: 1825, 898
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Supply
   rotate: false
-  xy: 292, 4
+  xy: 1873, 946
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Survivalism I
   rotate: false
-  xy: 1995, 1707
+  xy: 1825, 850
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Survivalism II
   rotate: false
-  xy: 1633, 802
+  xy: 1873, 898
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Survivalism III
   rotate: false
-  xy: 1681, 850
+  xy: 1825, 802
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Targeting I
   rotate: false
-  xy: 1729, 898
+  xy: 1873, 850
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Targeting II
   rotate: false
-  xy: 340, 4
+  xy: 1873, 802
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Targeting III
   rotate: false
-  xy: 1995, 1659
+  xy: 1825, 754
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Trade Mission Bonus
   rotate: false
-  xy: 1681, 802
+  xy: 1873, 754
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Volley
   rotate: false
-  xy: 1729, 850
+  xy: 1921, 939
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Wolfpack I
   rotate: false
-  xy: 388, 4
+  xy: 1969, 939
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Wolfpack II
   rotate: false
-  xy: 1995, 1611
+  xy: 1271, 728
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Wolfpack III
   rotate: false
-  xy: 1729, 802
+  xy: 1319, 728
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Woodsman
   rotate: false
-  xy: 436, 4
+  xy: 1367, 728
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
@@ -1406,70 +1406,70 @@ UnitPromotionPortraits/Survivalism I
   index: -1
 UnitPromotionPortraits/Survivalism II
   rotate: false
-  xy: 1090, 595
+  xy: 1271, 776
   size: 173, 173
   orig: 173, 173
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Survivalism III
   rotate: false
-  xy: 1271, 776
+  xy: 1452, 957
   size: 173, 173
   orig: 173, 173
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Targeting III
   rotate: false
-  xy: 1452, 957
+  xy: 1633, 1138
   size: 173, 173
   orig: 173, 173
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Trade Mission Bonus
   rotate: false
-  xy: 1633, 1138
+  xy: 1814, 1319
   size: 173, 173
   orig: 173, 173
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Unable to pillage tiles
   rotate: false
-  xy: 1814, 1319
+  xy: 728, 52
   size: 173, 173
   orig: 173, 173
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Volley
   rotate: false
-  xy: 728, 52
+  xy: 909, 234
   size: 173, 173
   orig: 173, 173
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Wolfpack I
   rotate: false
-  xy: 909, 234
+  xy: 1452, 776
   size: 173, 173
   orig: 173, 173
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Wolfpack II
   rotate: false
-  xy: 1090, 414
+  xy: 1633, 957
   size: 173, 173
   orig: 173, 173
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Wolfpack III
   rotate: false
-  xy: 1271, 595
+  xy: 1814, 1138
   size: 173, 173
   orig: 173, 173
   offset: 0, 0
   index: -1
 UnitPromotionPortraits/Woodsman
   rotate: false
-  xy: 1452, 776
+  xy: 909, 53
   size: 173, 173
   orig: 173, 173
   offset: 0, 0

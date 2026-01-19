@@ -62,7 +62,7 @@ NationPortraits/Babylon
   index: -1
 NationPortraits/Background
   rotate: false
-  xy: 592, 214
+  xy: 788, 410
   size: 174, 174
   orig: 174, 174
   offset: 0, 0
@@ -102,366 +102,373 @@ NationPortraits/Byzantium
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Carthage
+NationPortraits/Canada
   rotate: false
   xy: 592, 1572
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Celts
+NationPortraits/Carthage
   rotate: false
   xy: 788, 1768
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/China
+NationPortraits/Celts
   rotate: false
   xy: 4, 788
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Confederacy
+NationPortraits/China
   rotate: false
   xy: 200, 984
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Dalmace
+NationPortraits/Confederacy
   rotate: false
   xy: 396, 1180
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Denmark
+NationPortraits/Dalmace
   rotate: false
   xy: 592, 1376
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Egypt
+NationPortraits/Denmark
   rotate: false
   xy: 788, 1572
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/England
+NationPortraits/Egypt
   rotate: false
   xy: 984, 1768
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Eruch
+NationPortraits/England
   rotate: false
   xy: 4, 592
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Ethiopia
+NationPortraits/Eruch
   rotate: false
   xy: 200, 788
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/France
+NationPortraits/Ethiopia
   rotate: false
   xy: 396, 984
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Franks
+NationPortraits/France
   rotate: false
   xy: 592, 1180
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Germany
+NationPortraits/Franks
   rotate: false
   xy: 788, 1376
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Goths
+NationPortraits/Germany
   rotate: false
   xy: 984, 1572
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Greece
+NationPortraits/Goths
   rotate: false
   xy: 1180, 1768
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Hittites
+NationPortraits/Greece
   rotate: false
   xy: 4, 396
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Inca
+NationPortraits/Hittites
   rotate: false
   xy: 200, 592
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/India
+NationPortraits/Inca
   rotate: false
   xy: 396, 788
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Indonesia
+NationPortraits/India
   rotate: false
   xy: 592, 984
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Iroquois
+NationPortraits/Indonesia
   rotate: false
   xy: 788, 1180
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Japan
+NationPortraits/Iroquois
   rotate: false
   xy: 984, 1376
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Korea
+NationPortraits/Japan
   rotate: false
   xy: 1180, 1572
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Manchu
+NationPortraits/Korea
   rotate: false
   xy: 1376, 1768
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Mongolia
+NationPortraits/Manchu
   rotate: false
   xy: 4, 200
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Morocco
+NationPortraits/Mongolia
   rotate: false
   xy: 200, 396
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Normandy
+NationPortraits/Morocco
   rotate: false
   xy: 396, 592
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Norway
+NationPortraits/Normandy
   rotate: false
   xy: 592, 788
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Orlin
+NationPortraits/Norway
   rotate: false
   xy: 788, 984
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Persia
+NationPortraits/Orlin
   rotate: false
   xy: 984, 1180
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Poland
+NationPortraits/Persia
   rotate: false
   xy: 1180, 1376
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Polynesia
+NationPortraits/Poland
   rotate: false
   xy: 1376, 1572
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Portugal
+NationPortraits/Polynesia
   rotate: false
   xy: 1572, 1768
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Pulias
+NationPortraits/Portugal
   rotate: false
   xy: 4, 4
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Random
+NationPortraits/Pulias
   rotate: false
   xy: 200, 200
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Rome
+NationPortraits/Random
   rotate: false
   xy: 396, 396
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Russia
+NationPortraits/Rome
   rotate: false
   xy: 592, 592
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Shoshone
+NationPortraits/Russia
   rotate: false
   xy: 788, 788
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Siam
+NationPortraits/Shoshone
   rotate: false
   xy: 984, 984
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Songhai
+NationPortraits/Siam
   rotate: false
   xy: 1180, 1180
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Spain
+NationPortraits/Songhai
   rotate: false
   xy: 1376, 1376
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Spectator
+NationPortraits/Spain
   rotate: false
   xy: 1572, 1572
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Sumeria
+NationPortraits/Spectator
   rotate: false
   xy: 1768, 1768
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Sweden
+NationPortraits/Sumeria
   rotate: false
   xy: 200, 4
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/The Huns
+NationPortraits/Sweden
   rotate: false
   xy: 396, 200
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/The Maya
+NationPortraits/The Huns
   rotate: false
   xy: 592, 396
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/The Netherlands
+NationPortraits/The Maya
   rotate: false
   xy: 788, 592
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/The Ottomans
+NationPortraits/The Netherlands
   rotate: false
   xy: 984, 788
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Union
+NationPortraits/The Ottomans
   rotate: false
   xy: 1180, 984
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Vandal
+NationPortraits/Union
   rotate: false
   xy: 1376, 1180
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Vedria
+NationPortraits/Vandal
   rotate: false
   xy: 1572, 1376
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Venice
+NationPortraits/Vedria
   rotate: false
   xy: 1768, 1572
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-NationPortraits/Zulu
+NationPortraits/Venice
   rotate: false
   xy: 396, 4
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+NationPortraits/Zulu
+  rotate: false
+  xy: 592, 200
   size: 188, 188
   orig: 188, 188
   offset: 0, 0

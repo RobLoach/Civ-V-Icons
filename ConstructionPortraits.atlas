@@ -249,6 +249,13 @@ UnitPortraits/Comanche Rider
   orig: 256, 256
   offset: 0, 0
   index: -1
+UnitPortraits/Comanche Riders
+  rotate: false
+  xy: 1324, 1060
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
 UnitPortraits/Companion Cavalry
   rotate: false
   xy: 1588, 1324
@@ -322,6 +329,13 @@ UnitPortraits/Foreign Legion
 UnitPortraits/Frigate
   rotate: false
   xy: 1060, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPortraits/Future Infantry
+  rotate: false
+  xy: 1324, 268
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
@@ -2646,16 +2660,23 @@ BuildingPortraits/Workshop
   orig: 180, 180
   offset: 0, 0
   index: -1
+BuildingPortraits/World Congress
+  rotate: false
+  xy: 568, 328
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
 ConstructionIcons/Circle
   rotate: false
-  xy: 756, 518
+  xy: 944, 706
   size: 178, 178
   orig: 178, 178
   offset: 0, 0
   index: -1
 ReligionPortraits/Background
   rotate: false
-  xy: 944, 711
+  xy: 1132, 899
   size: 173, 173
   orig: 173, 173
   offset: 0, 0
@@ -2683,35 +2704,35 @@ ReligionPortraits/Christianity
   index: -1
 ReligionPortraits/Confucianism
   rotate: false
-  xy: 1320, 1132
+  xy: 1508, 1320
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ReligionPortraits/Eastern Orthodoxy
   rotate: false
-  xy: 1508, 1320
+  xy: 1696, 1508
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ReligionPortraits/Fallback
   rotate: false
-  xy: 1132, 895
+  xy: 1320, 1083
   size: 163, 177
   orig: 163, 177
   offset: 0, 0
   index: -1
 ReligionPortraits/Hinduism
   rotate: false
-  xy: 1696, 1508
+  xy: 568, 192
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ReligionPortraits/Islam
   rotate: false
-  xy: 568, 194
+  xy: 756, 382
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -2767,28 +2788,28 @@ ReligionPortraits/Sikhism
   index: -1
 ReligionPortraits/Taoism
   rotate: false
-  xy: 568, 58
+  xy: 756, 246
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ReligionPortraits/Tengriism
   rotate: false
-  xy: 1320, 996
+  xy: 1508, 1184
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ReligionPortraits/Zoroastrianism
   rotate: false
-  xy: 1303, 860
+  xy: 1491, 1048
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitPortraits/Background
   rotate: false
-  xy: 568, 330
+  xy: 756, 518
   size: 178, 178
   orig: 178, 178
   offset: 0, 0
