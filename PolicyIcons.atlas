@@ -4,30 +4,282 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, Linear
 repeat: none
+PolicyIcons/Academy of Sciences
+  rotate: false
+  xy: 4, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyBranchIcons/Order
+  rotate: false
+  xy: 4, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Communism
+  rotate: false
+  xy: 4, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Cultural Revolution
+  rotate: false
+  xy: 4, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Dictatorship of the Proletariat
+  rotate: false
+  xy: 4, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Double Agents
+  rotate: false
+  xy: 4, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Five-Year Plan
+  rotate: false
+  xy: 4, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Hero of the People
+  rotate: false
+  xy: 4, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Iron Curtain
+  rotate: false
+  xy: 4, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Order
+  rotate: false
+  xy: 4, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Party Leadership
+  rotate: false
+  xy: 4, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Patriotic War
+  rotate: false
+  xy: 4, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Resettlement
+  rotate: false
+  xy: 4, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Skyscrapers
+  rotate: false
+  xy: 4, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Socialist Realism
+  rotate: false
+  xy: 4, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Spaceflight Pioneers
+  rotate: false
+  xy: 4, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Universal Healthcare (Order)
+  rotate: false
+  xy: 4, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Workers' Faculties
+  rotate: false
+  xy: 4, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Young Pioneers
+  rotate: false
+  xy: 4, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
 PolicyIcons/Aesthetics
-  rotate: false
-  xy: 4, 1768
-  size: 188, 188
-  orig: 188, 188
-  offset: 0, 0
-  index: -1
-PolicyIcons/Consulates
-  rotate: false
-  xy: 4, 1768
-  size: 188, 188
-  orig: 188, 188
-  offset: 0, 0
-  index: -1
-PolicyIcons/Aristocracy
   rotate: false
   xy: 4, 1572
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
-PolicyIcons/Artistic Genius
+PolicyIcons/Consulates
+  rotate: false
+  xy: 4, 1572
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Aristocracy
   rotate: false
   xy: 200, 1768
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Arsenal of Democracy
+  rotate: false
+  xy: 4, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyBranchIcons/Freedom
+  rotate: false
+  xy: 4, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Avant Garde
+  rotate: false
+  xy: 4, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Capitalism
+  rotate: false
+  xy: 4, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Collective Rule
+  rotate: false
+  xy: 4, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Covert Action
+  rotate: false
+  xy: 4, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Creative Expression
+  rotate: false
+  xy: 4, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Economic Union
+  rotate: false
+  xy: 4, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Freedom
+  rotate: false
+  xy: 4, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Media Culture
+  rotate: false
+  xy: 4, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/New Deal
+  rotate: false
+  xy: 4, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Space Procurements
+  rotate: false
+  xy: 4, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Their Finest Hour
+  rotate: false
+  xy: 4, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Treaty Organization
+  rotate: false
+  xy: 4, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Universal Healthcare (Freedom)
+  rotate: false
+  xy: 4, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Urbanization
+  rotate: false
+  xy: 4, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Volunteer Army
+  rotate: false
+  xy: 4, 1376
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+PolicyIcons/Artistic Genius
+  rotate: false
+  xy: 200, 1572
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
@@ -46,56 +298,91 @@ PolicyBranchIcons/Autocracy
   orig: 123, 123
   offset: 0, 0
   index: -1
+PolicyIcons/Clausewitz's Legacy
+  rotate: false
+  xy: 1376, 1245
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+PolicyIcons/Cult of Personality
+  rotate: false
+  xy: 1376, 1245
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+PolicyIcons/Elite Forces
+  rotate: false
+  xy: 1376, 1245
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+PolicyIcons/Fortified Borders
+  rotate: false
+  xy: 1376, 1245
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+PolicyIcons/Futurism
+  rotate: false
+  xy: 1376, 1245
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+PolicyIcons/Gunboat Diplomacy
+  rotate: false
+  xy: 1376, 1245
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+PolicyIcons/Industrial Espionage
+  rotate: false
+  xy: 1376, 1245
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+PolicyIcons/Lightning Warfare
+  rotate: false
+  xy: 1376, 1245
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+PolicyIcons/Mobilization
+  rotate: false
+  xy: 1376, 1245
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+PolicyIcons/Third Alternative
+  rotate: false
+  xy: 1376, 1245
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+PolicyIcons/Universal Healthcare (Autocracy)
+  rotate: false
+  xy: 1376, 1245
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
 PolicyIcons/Citizenship
   rotate: false
-  xy: 4, 1376
+  xy: 396, 1768
   size: 188, 188
   orig: 188, 188
   offset: 0, 0
   index: -1
 PolicyIcons/Civil Society
-  rotate: false
-  xy: 200, 1572
-  size: 188, 188
-  orig: 188, 188
-  offset: 0, 0
-  index: -1
-PolicyIcons/Collective Rule
-  rotate: false
-  xy: 396, 1768
-  size: 188, 188
-  orig: 188, 188
-  offset: 0, 0
-  index: -1
-PolicyBranchIcons/Freedom
-  rotate: false
-  xy: 396, 1768
-  size: 188, 188
-  orig: 188, 188
-  offset: 0, 0
-  index: -1
-PolicyIcons/Freedom
-  rotate: false
-  xy: 396, 1768
-  size: 188, 188
-  orig: 188, 188
-  offset: 0, 0
-  index: -1
-PolicyIcons/Communism
-  rotate: false
-  xy: 4, 1180
-  size: 188, 188
-  orig: 188, 188
-  offset: 0, 0
-  index: -1
-PolicyBranchIcons/Order
-  rotate: false
-  xy: 4, 1180
-  size: 188, 188
-  orig: 188, 188
-  offset: 0, 0
-  index: -1
-PolicyIcons/Order
   rotate: false
   xy: 4, 1180
   size: 188, 188
