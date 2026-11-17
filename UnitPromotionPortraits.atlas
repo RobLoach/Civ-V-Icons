@@ -1271,6 +1271,160 @@ UnitPromotionPortraits/Native Tongue
   orig: 173, 173
   offset: 0, 0
   index: -1
+UnitPromotionPortraits/[Native Tongue] [a stash of gold] I
+  rotate: false
+  xy: 547, 414
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/[Native Tongue] [a stash of gold] II
+  rotate: false
+  xy: 547, 414
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/[Native Tongue] [an ancient prophecy] I
+  rotate: false
+  xy: 547, 414
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/[Native Tongue] [an ancient prophecy] II
+  rotate: false
+  xy: 547, 414
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/[Native Tongue] [discover a lost technology] I
+  rotate: false
+  xy: 547, 414
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/[Native Tongue] [discover a lost technology] II
+  rotate: false
+  xy: 547, 414
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/[Native Tongue] [discover cultural artifacts] I
+  rotate: false
+  xy: 547, 414
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/[Native Tongue] [discover cultural artifacts] II
+  rotate: false
+  xy: 547, 414
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/[Native Tongue] [discover holy symbols] I
+  rotate: false
+  xy: 547, 414
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/[Native Tongue] [discover holy symbols] II
+  rotate: false
+  xy: 547, 414
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/[Native Tongue] [find a crudely-drawn map] I
+  rotate: false
+  xy: 547, 414
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/[Native Tongue] [find a crudely-drawn map] II
+  rotate: false
+  xy: 547, 414
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/[Native Tongue] [reveal nearby Barbarian camps] I
+  rotate: false
+  xy: 547, 414
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/[Native Tongue] [reveal nearby Barbarian camps] II
+  rotate: false
+  xy: 547, 414
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/[Native Tongue] [squatters willing to work for you] I
+  rotate: false
+  xy: 547, 414
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/[Native Tongue] [squatters willing to work for you] II
+  rotate: false
+  xy: 547, 414
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/[Native Tongue] [squatters wishing to settle under your rule] I
+  rotate: false
+  xy: 547, 414
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/[Native Tongue] [squatters wishing to settle under your rule] II
+  rotate: false
+  xy: 547, 414
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/[Native Tongue] [survivors (adds population to a city)] I
+  rotate: false
+  xy: 547, 414
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/[Native Tongue] [survivors (adds population to a city)] II
+  rotate: false
+  xy: 547, 414
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/[Native Tongue] [your exploring unit receives training] I
+  rotate: false
+  xy: 547, 414
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+UnitPromotionPortraits/[Native Tongue] [your exploring unit receives training] II
+  rotate: false
+  xy: 547, 414
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
 UnitPromotionPortraits/Recruitment
   rotate: false
   xy: 728, 595
